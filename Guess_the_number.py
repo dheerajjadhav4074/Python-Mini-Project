@@ -1,3 +1,4 @@
+hhhhhhhhhhhhh
 # Guess the Number
 import random 
 target = random.randint(1, 100)
@@ -44,4 +45,5 @@ Too high!. Take a smaller guess..
 Guess the target (or) Quit: 5
 You guessed it right!
 --- GAME OVER ---
+
 '''
