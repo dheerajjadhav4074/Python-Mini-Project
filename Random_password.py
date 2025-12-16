@@ -1,5 +1,5 @@
 # Random Password
-oooooo
+
 import random
 import string
 
@@ -27,3 +27,4 @@ Your random password is:  }C|&Y{,GAH(D
                                                  
 
 '''
+
